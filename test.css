@@ -1,0 +1,35 @@
+* {
+    font-size: 25px;
+}
+
+body {
+    background: beige;
+}
+
+#inputText, #mainButton {
+    min-height: 20px;
+    padding: 10px 30px;
+}
+
+#inputText {
+    min-width: 50%;
+}
+
+#mainButton {
+    margin-left: 20px;
+    background-color: #0000ff;
+    color: white;
+    border-radius: 15px;
+}
+
+#textContainer {
+    margin: 50px;
+}
+
+.newElementRedStyle {
+    color: red;
+}
+
+.newElementGreenStyle {
+    color: green;
+}
